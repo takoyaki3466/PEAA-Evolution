@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "peaa_evolution:aegu_mk2"
+    },
+    "D": {
+      "item": "projecte:klein_star_omega"
+    }
+  },
+  "pattern": [
+    "###",
+    "#D#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "peaa_evolution:aegu_mk3"
+  }
+}

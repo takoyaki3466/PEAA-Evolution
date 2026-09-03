@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "peaa_evolution:aegu_mk3"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "peaa_evolution:block/aegu_mk3"
+}

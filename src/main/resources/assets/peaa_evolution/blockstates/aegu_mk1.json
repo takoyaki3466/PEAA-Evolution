@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "peaa_evolution:block/aegu_mk1"
+    },
+    "active=true": {
+      "model": "peaa_evolution:block/aegu_mk1_active"
+    }
+  }
+}
